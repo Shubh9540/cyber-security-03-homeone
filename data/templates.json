@@ -130,15 +130,10 @@
                   "id": "nav-faq",
                   "label": "FAQ",
                   "url": "/#faq"
-                },
-                {
-                  "id": "nav-contact",
-                  "label": "Contact",
-                  "url": "/#contact"
                 }
               ],
               "contactButton": {
-                "text": "Get in Touch",
+                "text": "Contact Us",
                 "url": "/#contact"
               },
               "openMenuLabel": "Open navigation menu",
@@ -411,8 +406,6 @@
               "description": "Take a look at how we helped real businesses solve their digital vulnerabilities and build lasting peace of mind.",
               "previousLabel": "View previous projects",
               "nextLabel": "View next projects",
-              "buttonText": "Explore Solutions",
-              "buttonUrl": "/#contact",
               "projects": [
                 {
                   "id": "project-enterprise-network-upgrade",

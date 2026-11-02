@@ -129,16 +129,6 @@ export const Projects = ({ data }: ProjectsProps) => {
             <FaArrowRight />
           </button>
         </div>
-
-        <div className="mt-6 flex justify-center">
-          <Link
-            href={data.buttonUrl}
-            className="inline-flex items-center gap-3 rounded-lg border border-[var(--color-primary)] bg-[var(--color-bg-card)] px-6 py-3 text-sm font-bold text-[var(--color-heading)] transition-colors hover:bg-[var(--color-primary)]"
-          >
-            {data.buttonText}
-            <FaArrowRight />
-          </Link>
-        </div>
       </div>
     </section>
   );

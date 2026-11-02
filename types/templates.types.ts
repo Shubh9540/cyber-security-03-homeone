@@ -137,8 +137,8 @@ export interface ProjectsData {
   description: string;
   previousLabel: string;
   nextLabel: string;
-  buttonText: string;
-  buttonUrl: string;
+  buttonText?: string;
+  buttonUrl?: string;
   projects: ProjectItem[];
 }
 
