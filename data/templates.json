@@ -1,0 +1,768 @@
+{
+  "common": {
+    "Footer": {
+      "logo": "/main logo/cybershield-logo-footer.webp",
+      "logoAlt": "CyberShield Logo",
+      "logoUrl": "/",
+      "brandTitle": "CyberShield",
+      "copyrightText": "© 2026 CyberShield. All Rights Reserved. Powered By Lestow",
+      "description": "We make digital security simple, reliable, and stress-free for growing businesses. Stay safe online with 24/7 proactive protection.",
+      "backgroundImage": "/others/footer-bg.webp",
+      "backgroundImageAlt": "Cybersecurity analyst monitoring global digital threats from a command center",
+      "quickLinksTitle": "Quick Links",
+      "contactTitle": "Contact Us",
+      "followUsTitle": "Follow Us",
+      "socialLinks": [
+        {
+          "id": "social-linkedin",
+          "icon": "FaLinkedinIn",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com"
+        },
+        {
+          "id": "social-x",
+          "icon": "FaXTwitter",
+          "label": "X",
+          "url": "https://x.com"
+        },
+        {
+          "id": "social-facebook",
+          "icon": "FaFacebookF",
+          "label": "Facebook",
+          "url": "https://facebook.com"
+        },
+        {
+          "id": "social-instagram",
+          "icon": "FaInstagram",
+          "label": "Instagram",
+          "url": "https://instagram.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "quick-hero",
+          "label": "Home",
+          "url": "/#hero"
+        },
+        {
+          "id": "quick-about",
+          "label": "About Us",
+          "url": "/#about"
+        },
+        {
+          "id": "quick-services",
+          "label": "Services",
+          "url": "/#services"
+        },
+        {
+          "id": "quick-why-choose-us",
+          "label": "Why Choose Us",
+          "url": "/#why-choose-us"
+        },
+        {
+          "id": "quick-projects",
+          "label": "Projects",
+          "url": "/#projects"
+        },
+        {
+          "id": "quick-impact",
+          "label": "Our Impact",
+          "url": "/#impact"
+        },
+        {
+          "id": "quick-testimonials",
+          "label": "Testimonials",
+          "url": "/#testimonials"
+        },
+        {
+          "id": "quick-faq",
+          "label": "FAQ",
+          "url": "/#faq"
+        },
+        {
+          "id": "quick-contact",
+          "label": "Contact",
+          "url": "/#contact"
+        }
+      ],
+      "contactInfo": {
+        "email": "info@xyz.com",
+        "phone": "+1 000000000",
+        "address": "123 Main St, New York, NY, USA"
+      }
+    }
+  },
+  "categories": {
+    "CyberSecurity": {
+      "sections": {
+        "Header": {
+          "variants": {
+            "CyberSecurityHeader2": {
+              "logo": "/main logo/cybershield-logo.webp",
+              "logoAlt": "CyberShield Cyber Security",
+              "navLinks": [
+                {
+                  "id": "nav-home",
+                  "label": "Home",
+                  "url": "/#hero"
+                },
+                {
+                  "id": "nav-about",
+                  "label": "About Us",
+                  "url": "/#about"
+                },
+                {
+                  "id": "nav-services",
+                  "label": "Services",
+                  "url": "/#services"
+                },
+                {
+                  "id": "nav-why-choose-us",
+                  "label": "Why Choose Us",
+                  "url": "/#why-choose-us"
+                },
+                {
+                  "id": "nav-projects",
+                  "label": "Projects",
+                  "url": "/#projects"
+                },
+                {
+                  "id": "nav-faq",
+                  "label": "FAQ",
+                  "url": "/#faq"
+                },
+                {
+                  "id": "nav-contact",
+                  "label": "Contact",
+                  "url": "/#contact"
+                }
+              ],
+              "contactButton": {
+                "text": "Get in Touch",
+                "url": "/#contact"
+              },
+              "openMenuLabel": "Open navigation menu",
+              "closeMenuLabel": "Close navigation menu"
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "CyberSecurityHero2": {
+              "slideNavigationLabel": "Hero slides",
+              "goToSlideLabel": "Go to slide",
+              "autoplayDelay": 5000,
+              "slides": [
+                {
+                  "id": "hero-threat-protection",
+                  "eyebrow": "SMART DIGITAL PROTECTION",
+                  "titleStart": "Simple cybersecurity built to",
+                  "highlightedTitle": "protect",
+                  "titleEnd": "your business.",
+                  "description": "Keep your company data, devices, and team safe from online threats with clean, automated defense systems.",
+                  "image": "/others/hero-1.webp",
+                  "imageAlt": "Cybersecurity engineer monitoring security network"
+                },
+                {
+                  "id": "hero-network-defense",
+                  "eyebrow": "24/7 ACTIVE DEFENSE",
+                  "titleStart": "Block online threats before they",
+                  "highlightedTitle": "reach",
+                  "titleEnd": "your data.",
+                  "description": "Continuous real-time protection and smart alerts so your team can focus on work without security worries.",
+                  "image": "/others/hero-2.webp",
+                  "imageAlt": "Security team analyzing network protection dashboard"
+                },
+                {
+                  "id": "hero-cloud-security",
+                  "eyebrow": "RELIABLE CLOUD SAFETY",
+                  "titleStart": "Total cloud security made",
+                  "highlightedTitle": "simple",
+                  "titleEnd": "and fast.",
+                  "description": "Safeguard cloud storage, sensitive files, and everyday business applications with dependable encryption.",
+                  "image": "/others/hero-3.webp",
+                  "imageAlt": "Cloud security technician in a modern server facility"
+                }
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "CyberSecurityAboutUs2": {
+              "subtitle": "ABOUT OUR FIRM",
+              "title1": "Making digital defense",
+              "highlightedTitle": "Clear & Simple",
+              "title2": "for everyone.",
+              "description": "We believe cybersecurity should be straightforward and stress-free. Our certified specialists work around the clock to detect risks, protect sensitive company data, and keep your business running smoothly every single day.",
+              "imageMain": "/others/about-main.webp",
+              "imageMainAlt": "Cybersecurity analyst monitoring global threats in a security operations center",
+              "imageTop": "/others/about-team.webp",
+              "imageTopAlt": "CyberShield security professional working on a laptop",
+              "imageBottom": "/others/about-monitoring.webp",
+              "imageBottomAlt": "Laptop displaying active cybersecurity protection",
+              "features": [
+                {
+                  "id": "about-proactive-protection",
+                  "icon": "FaShieldAlt",
+                  "title": "Fast Threat Prevention",
+                  "description": "Stop security risks before they can cause downtime."
+                },
+                {
+                  "id": "about-expert-team",
+                  "icon": "FaUsers",
+                  "title": "Friendly Security Pros",
+                  "description": "Direct support from experienced, helpful engineers."
+                },
+                {
+                  "id": "about-monitoring",
+                  "icon": "FaCog",
+                  "title": "Round-the-Clock Watch",
+                  "description": "Active system monitoring every hour of every day."
+                },
+                {
+                  "id": "about-custom-solutions",
+                  "icon": "FaChartBar",
+                  "title": "Tailored For You",
+                  "description": "Practical security plans that fit your exact business needs."
+                }
+              ]
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "CyberSecurityServices2": {
+              "subtitle": "WHAT WE DO",
+              "title1": "Practical Security Solutions",
+              "title2": "Built",
+              "title3": "for Modern Teams",
+              "description": "Everything you need to secure your workplace in one simple place. From network firewalls to data backups, we handle the hard technical work so you can work with confidence.",
+              "linkText": "Learn More",
+              "services": [
+                {
+                  "id": "service-network-security",
+                  "title": "Network Protection",
+                  "description": "Defend office and remote networks against unauthorized visitors and intrusions.",
+                  "image": "/others/service-network.webp",
+                  "imageAlt": "Secure office network connections",
+                  "icon": "FaNetworkWired",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "service-data-encryption",
+                  "title": "Data Safeguards",
+                  "description": "Scramble customer and company files so only verified members can read them.",
+                  "image": "/others/service-encryption.webp",
+                  "imageAlt": "Encrypted data security lock",
+                  "icon": "FaLock",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "service-identity-access",
+                  "title": "Access Control",
+                  "description": "Ensure the right people have the right access with simple multi-factor logins.",
+                  "image": "/others/service-identity.webp",
+                  "imageAlt": "Biometric login security check",
+                  "icon": "FaFingerprint",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "service-security-monitoring",
+                  "title": "Live Threat Watch",
+                  "description": "Continuous automated scanning that catches unusual activity the moment it happens.",
+                  "image": "/others/service-monitoring.webp",
+                  "imageAlt": "Live security monitoring screen",
+                  "icon": "FaEye",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "service-backup-recovery",
+                  "title": "Backup & Fast Recovery",
+                  "description": "Automatic daily backups so your business can recover instantly from any accident.",
+                  "image": "/others/service-backup.webp",
+                  "imageAlt": "Cloud backup and system recovery",
+                  "icon": "FaCloudUploadAlt",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "service-security-configuration",
+                  "title": "System Hardening",
+                  "description": "Close common loopholes and configure work computers with safe default settings.",
+                  "image": "/others/service-configuration.webp",
+                  "imageAlt": "System security settings configuration",
+                  "icon": "FaCogs",
+                  "url": "/#contact"
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "CyberSecurityTestimonials2": {
+              "subtitle": "CLIENT STORIES",
+              "title1": "Loved by Teams",
+              "title2": "Across the Country",
+              "description": "See how our straightforward security approach transformed daily operations for business founders and IT managers.",
+              "videoImage": "/others/testimonial-video.webp",
+              "videoImageAlt": "Cybersecurity operations center protecting a global business network",
+              "previousLabel": "Previous testimonials",
+              "nextLabel": "Next testimonials",
+              "slideLabel": "Show testimonial",
+              "testimonials": [
+                {
+                  "id": "testimonial-rahul-verma",
+                  "name": "Rahul Verma",
+                  "location": "Operations Head, TechNova Labs",
+                  "quote": "Before CyberShield, we were constantly worried about data leaks and ransomware. Their team set everything up in three days, and their live alerts give us complete peace of mind. Exceptional service!",
+                  "rating": 5,
+                  "avatar": "/others/avatar-1.webp"
+                },
+                {
+                  "id": "testimonial-priya-nair",
+                  "name": "Priya Nair",
+                  "location": "Managing Director, Apex Health",
+                  "quote": "What stands out most is how easy they make everything to understand. No confusing technical speak, just solid protection and instant replies whenever we have questions.",
+                  "rating": 5,
+                  "avatar": "/others/avatar-2.webp"
+                },
+                {
+                  "id": "testimonial-amit-khanna",
+                  "name": "Amit Khanna",
+                  "location": "CTO, CloudScale Commerce",
+                  "quote": "Their access verification system reduced our login friction while raising our security score by 40%. It's easily the best tech investment we made this year.",
+                  "rating": 5,
+                  "avatar": "/others/avatar-3.webp"
+                },
+                {
+                  "id": "testimonial-neha-kapoor-security",
+                  "name": "Neha Kapoor",
+                  "location": "VP of Operations, Summit Group",
+                  "quote": "Professional, attentive, and always available. When we needed quick help with our compliance review, their engineers stepped in and sorted it out without a hitch.",
+                  "rating": 5,
+                  "avatar": "/others/avatar-4.webp"
+                }
+              ]
+            }
+          }
+        },
+        "whyChooseUs": {
+          "variants": {
+            "CyberSecurityWhyChooseUs2": {
+              "subtitle": "THE CYBERSHIELD DIFFERENCE",
+              "title1": "Smart Defense Without The",
+              "title2": "Complexity",
+              "description": "Cyber threats don't have to be overwhelming. We replace complicated jargon with clear steps, rapid response times, and dependable software that keeps your operations protected.",
+              "features": [
+                {
+                  "id": "why-advanced-threat-detection",
+                  "number": "01",
+                  "icon": "FaShieldAlt",
+                  "title": "Instant Warning System",
+                  "description": "Automatic smart detectors flag suspicious activity long before any damage occurs.",
+                  "image": "/others/why-threat.webp",
+                  "imageAlt": "Shield protecting server data"
+                },
+                {
+                  "id": "why-zero-trust-architecture",
+                  "number": "02",
+                  "icon": "FaUserLock",
+                  "title": "Strict Identity Checks",
+                  "description": "Verify every device and user login cleanly to eliminate unauthorized entry points.",
+                  "image": "/others/why-zerotrust.webp",
+                  "imageAlt": "Fingerprint scanner identity verification"
+                },
+                {
+                  "id": "why-end-to-end-protection",
+                  "number": "03",
+                  "icon": "FaCloud",
+                  "title": "Full Business Coverage",
+                  "description": "One unified safety blanket covering your email, laptops, phones, and cloud servers.",
+                  "image": "/others/why-protection.webp",
+                  "imageAlt": "Cloud server infrastructure protection"
+                },
+                {
+                  "id": "why-proactive-security-strategy",
+                  "number": "04",
+                  "icon": "FaChartLine",
+                  "title": "Always One Step Ahead",
+                  "description": "Routine health reviews and preventive patches keep you ahead of new cyber traps.",
+                  "image": "/others/why-strategy.webp",
+                  "imageAlt": "Analytics dashboard showing security trends"
+                }
+              ],
+              "button": {
+                "text": "Know More About Us",
+                "url": "/#contact"
+              },
+              "showButton": false,
+              "imageMain": "/others/about-main.webp",
+              "imageAlt": "Cybersecurity analyst monitoring a protected global network"
+            }
+          }
+        },
+        "Projects": {
+          "variants": {
+            "CyberSecurityProjects2": {
+              "subtitle": "RECENT SUCCESSES",
+              "title1": "Real Results Delivered for",
+              "title2": "Growing Companies",
+              "description": "Take a look at how we helped real businesses solve their digital vulnerabilities and build lasting peace of mind.",
+              "previousLabel": "View previous projects",
+              "nextLabel": "View next projects",
+              "buttonText": "Explore Solutions",
+              "buttonUrl": "/#contact",
+              "projects": [
+                {
+                  "id": "project-enterprise-network-upgrade",
+                  "category": "Network Defense",
+                  "title": "Complete Office Network Overhaul",
+                  "image": "/others/project-network.webp",
+                  "imageAlt": "Technician updating enterprise network security",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "project-cloud-data-encryption",
+                  "category": "File Safety",
+                  "title": "Customer Database Shielding",
+                  "image": "/others/project-encryption.webp",
+                  "imageAlt": "Secure database encryption in action",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "project-threat-monitoring-system",
+                  "category": "Threat Alerting",
+                  "title": "24/7 Security Operations Setup",
+                  "image": "/others/project-monitoring.webp",
+                  "imageAlt": "Operations center tracking threat activity",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "project-zero-trust-implementation",
+                  "category": "Login Security",
+                  "title": "Seamless Remote Team Verification",
+                  "image": "/others/project-zerotrust.webp",
+                  "imageAlt": "Remote worker verifying digital login",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "project-ransomware-response",
+                  "category": "Incident Response",
+                  "title": "Ransomware Rescue & Restoration",
+                  "image": "/others/project-ransomware.webp",
+                  "imageAlt": "Rapid response to security threat incident",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "project-secure-cloud-migration",
+                  "category": "Cloud Migration",
+                  "title": "Risk-Free Cloud Workspace Migration",
+                  "image": "/others/project-cloud.webp",
+                  "imageAlt": "Protected hybrid cloud server setup",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "project-industrial-security",
+                  "category": "Operations Safety",
+                  "title": "Smart Equipment System Shield",
+                  "image": "/others/project-industrial.webp",
+                  "imageAlt": "Protecting automated equipment networks",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "project-mobile-banking-security",
+                  "category": "App Protection",
+                  "title": "Online Payment Fraud Blocker",
+                  "image": "/others/project-banking.webp",
+                  "imageAlt": "Secure payment fraud prevention dashboard",
+                  "url": "/#contact"
+                }
+              ]
+            }
+          }
+        },
+        "Impact": {
+          "variants": {
+            "CyberSecurityImpact2": {
+              "subtitle": "PROVEN TRACK RECORD",
+              "title1": "Real Results That",
+              "title2": "Speak For Themselves",
+              "description": "Behind every number is a company that sleeps soundly knowing their business data and reputation are completely guarded.",
+              "backgroundImage": "/others/impact-bg.webp",
+              "backgroundImageAlt": "Cybersecurity analyst monitoring a global threat intelligence command center",
+              "stats": [
+                {
+                  "id": "impact-threats-blocked",
+                  "icon": "FaShieldAlt",
+                  "value": "65250+",
+                  "label": "Attacks Stopped"
+                },
+                {
+                  "id": "impact-happy-clients",
+                  "icon": "FaUsers",
+                  "value": "23160+",
+                  "label": "Protected Businesses"
+                },
+                {
+                  "id": "impact-projects-secured",
+                  "icon": "FaServer",
+                  "value": "1500+",
+                  "label": "Secure Deployments"
+                },
+                {
+                  "id": "impact-years-experience",
+                  "icon": "FaAward",
+                  "value": "20+",
+                  "label": "Years Dedicated Service"
+                }
+              ]
+            }
+          }
+        },
+        "Faq": {
+          "variants": {
+            "CyberSecurityFaq2": {
+              "subtitle": "COMMON QUESTIONS",
+              "title1": "Clear Answers to Your",
+              "title2": "Security Questions",
+              "description": "Everything you need to know about keeping your company safe, explained in everyday language.",
+              "image": "/others/faq-main.webp",
+              "imageAlt": "Cybersecurity specialist protecting business systems from digital threats",
+              "ctaTitle": "Need help choosing?",
+              "ctaDescription": "Speak directly with our security advisors.",
+              "ctaButtonLabel": "Contact our cybersecurity team",
+              "ctaButtonUrl": "/#contact",
+              "items": [
+                {
+                  "id": "faq-what-is-cybersecurity",
+                  "icon": "FaShieldAlt",
+                  "question": "Why does my small or midsize business need cybersecurity?",
+                  "answer": "Most automated attacks target growing companies because they assume smaller businesses have fewer defenses. Practical cybersecurity prevents financial loss, protects your customer trust, and keeps your operations online without surprises."
+                },
+                {
+                  "id": "faq-why-cybersecurity-important",
+                  "icon": "FaCog",
+                  "question": "Will setting up security slow down our daily work?",
+                  "answer": "Not at all. Our defense tools run silently in the background. Your team can login quickly, access files smoothly, and work normally without frustrating interruptions or confusing procedures."
+                },
+                {
+                  "id": "faq-common-cyber-threats",
+                  "icon": "FaServer",
+                  "question": "What are the biggest online threats businesses face today?",
+                  "answer": "Phishing emails that trick staff into giving away passwords, ransomware that locks files, and outdated software vulnerabilities. We put simple safeguards in place to stop all three before they enter your network."
+                },
+                {
+                  "id": "faq-protect-business",
+                  "icon": "FaUsers",
+                  "question": "How quickly can you secure our company?",
+                  "answer": "Basic coverage can be deployed in just 24 to 48 hours. We start with immediate risk checks, install essential file backups and login verification, and then build your complete defense strategy step by step."
+                },
+                {
+                  "id": "faq-ongoing-monitoring",
+                  "icon": "FaCloud",
+                  "question": "Do you monitor our systems over weekends and holidays?",
+                  "answer": "Yes, 365 days a year. Hackers often attack when offices are closed, so our automated threat detection and on-duty engineers monitor your systems around the clock, non-stop."
+                },
+                {
+                  "id": "faq-industries-served",
+                  "icon": "FaFileAlt",
+                  "question": "What types of industries do you protect?",
+                  "answer": "We support retail stores, healthcare clinics, financial services, tech startups, law firms, and manufacturing businesses. Any company that relies on computers and the internet can benefit from our protection."
+                }
+              ]
+            }
+          }
+        },
+        "Contact": {
+          "variants": {
+            "CyberSecurityContact2": {
+              "intro": {
+                "eyebrow": "GET IN TOUCH",
+                "title": "Let's Protect Your",
+                "titleHighlight": "Business Today",
+                "description": "Have questions or want a quick security assessment? Send us a message and one of our dedicated security specialists will respond within 2 business hours."
+              },
+              "form": {
+                "eyebrow": "QUICK INQUIRY",
+                "title": "Request a Free",
+                "titleHighlight": "Security Review",
+                "helperText": "Fill out this brief form and we will get back to you with clear, helpful guidance.",
+                "fullNamePlaceholder": "Your Name*",
+                "phonePlaceholder": "Your Phone*",
+                "emailPlaceholder": "Your Email*",
+                "servicePlaceholder": "Select Service*",
+                "messagePlaceholder": "Your Message*",
+                "buttonText": "Send Message",
+                "successMessage": "Message received! Our security team will contact you shortly.",
+                "servicesList": [
+                  {
+                    "id": "contact-service-network",
+                    "label": "Network Security",
+                    "value": "network-security"
+                  },
+                  {
+                    "id": "contact-service-encryption",
+                    "label": "Data Encryption",
+                    "value": "data-encryption"
+                  },
+                  {
+                    "id": "contact-service-access",
+                    "label": "Identity & Access Management",
+                    "value": "identity-access"
+                  },
+                  {
+                    "id": "contact-service-monitoring",
+                    "label": "Security Monitoring",
+                    "value": "security-monitoring"
+                  },
+                  {
+                    "id": "contact-service-backup",
+                    "label": "Backup & Recovery",
+                    "value": "backup-recovery"
+                  },
+                  {
+                    "id": "contact-service-configuration",
+                    "label": "Security Configuration",
+                    "value": "security-configuration"
+                  }
+                ]
+              },
+              "contactPanel": {
+                "items": [
+                  {
+                    "id": "contact-info-address",
+                    "icon": "FaMapMarkerAlt",
+                    "title": "Our Office Location",
+                    "lines": [
+                      {
+                        "id": "contact-office-address",
+                        "text": "123 Main St, New York, NY, USA"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "contact-info-phone",
+                    "icon": "FaPhoneAlt",
+                    "title": "Call Us Directly",
+                    "lines": [
+                      {
+                        "id": "contact-phone-number",
+                        "text": "+1 000000000"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "contact-info-email",
+                    "icon": "FaEnvelope",
+                    "title": "Send a Message",
+                    "lines": [
+                      {
+                        "id": "contact-email-address",
+                        "text": "info@xyz.com"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "location": {
+                "mapUrl": "https://www.google.com/maps?q=123+Main+St,+New+York,+NY,+USA&output=embed",
+                "mapTitle": "Map showing the CyberShield office location in New York"
+              }
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Header": "CyberSecurityHeader2",
+          "Footer": "CyberSecurityFooter2"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "Hero",
+                "component": "Hero"
+              },
+              {
+                "key": "AboutUs",
+                "component": "AboutUs"
+              },
+              {
+                "key": "Services",
+                "component": "Services"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "WhyChooseUs"
+              },
+              {
+                "key": "Projects",
+                "component": "Projects"
+              },
+              {
+                "key": "Impact",
+                "component": "Impact"
+              },
+              {
+                "key": "Testimonials",
+                "component": "Testimonials"
+              },
+              {
+                "key": "Faq",
+                "component": "Faq"
+              },
+              {
+                "key": "Contact",
+                "component": "Contact"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "components": [
+        {
+          "key": "Hero",
+          "component": "Hero"
+        },
+        {
+          "key": "AboutUs",
+          "component": "AboutUs"
+        },
+        {
+          "key": "Services",
+          "component": "Services"
+        },
+        {
+          "key": "WhyChooseUs",
+          "component": "WhyChooseUs"
+        },
+        {
+          "key": "Projects",
+          "component": "Projects"
+        },
+        {
+          "key": "Impact",
+          "component": "Impact"
+        },
+        {
+          "key": "Testimonials",
+          "component": "Testimonials"
+        },
+        {
+          "key": "Faq",
+          "component": "Faq"
+        },
+        {
+          "key": "Contact",
+          "component": "Contact"
+        }
+      ]
+    }
+  }
+}
